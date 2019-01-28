@@ -1,0 +1,1 @@
+To run this app is necessary instal node and run command npm run dev on main repository 
